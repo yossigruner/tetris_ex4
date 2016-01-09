@@ -1,0 +1,3 @@
+gcc ex42.c -o draw.out
+gcc ex41.c 
+rm -f file
